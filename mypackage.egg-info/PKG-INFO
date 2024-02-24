@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: mypackage
+Version: 0.1
+Summary: EDSA example python package
+Home-page: https://github.com/opeyemiolasunkanmi/mypackage
+Author: opeyemiolasunkanmi
+Author-email: opeyemiolasunkanmi19@gmail.com
+License: MIT
+
+# my package
+This package is designed to learn how to install and import customized python packages 
